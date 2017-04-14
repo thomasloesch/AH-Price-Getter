@@ -6,3 +6,4 @@ r = requests.get(endPoint)
 
 for s in r:
 	print(s)
+
